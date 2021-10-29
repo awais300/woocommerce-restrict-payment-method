@@ -1,0 +1,14 @@
+{
+  "name": "ewa/woocommerce-restrict-payment-method",
+  "license": "GPL-3.0",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "EWA\\RestrictPaymentMethod\\": "src/"
+    }
+  }
+}
+
+
+
